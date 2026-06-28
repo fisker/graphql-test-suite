@@ -68,7 +68,7 @@
     "@fisker/markdownlint-cli2-config": "0.1.0",
     "@fisker/prettier-config": "6.0.0",
     "@fisker/release-it-config": "6.0.2",
-    "adm-zip": "^0.5.17",
+    "adm-zip": "0.5.17",
     "c8": "11.0.0",
     "del-cli": "7.0.0",
     "eslint": "10.6.0",
