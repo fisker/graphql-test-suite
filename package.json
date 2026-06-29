@@ -1,6 +1,6 @@
 {
   "name": "graphql-test-suite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GraphQL Parsing Test Suite.",
   "homepage": "https://github.com/fisker/graphql-test-suite#readme",
   "bugs": {
