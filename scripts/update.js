@@ -37,7 +37,7 @@ function* getData(feature) {
   }
 }
 
-const features = ['lexer', 'parser']
+const features = ['parser']
 await Promise.all([
   writeTextFile(
     new URL('./apollo-rs.js', DATA_DIRECTORY),

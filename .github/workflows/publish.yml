@@ -30,8 +30,5 @@ jobs:
       - name: Install Dependencies
         run: yarn
 
-      - name: Build package
-        run: yarn build
-
       - name: Publish to NPM
         run: npm publish
